@@ -17,7 +17,7 @@
 | | | | | | | |`S`| | | |
 | |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`|
 
-<a href="https://twitter.com/kobrakrzysztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a><br>
+<a href="https://twitter.com/kobrakrzysztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a><br><br>
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=bullet)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/bullet)
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=blitz)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/blitz)
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=rapid)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/rapid)
