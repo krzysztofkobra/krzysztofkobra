@@ -17,5 +17,5 @@
 | | | | | | | |`S`| || | | |
 | |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`| | |
 
-<a href="https://twitter.com/kan0nek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a>
+<a href="https://twitter.com/kobrakrzysztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a>
 </div>
