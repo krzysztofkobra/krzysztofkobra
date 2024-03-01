@@ -1,7 +1,7 @@
 <h2 align="center"> Hi </h2>
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kan0nek&theme=iceberg&card_width=456" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=krzysztofkobra&theme=iceberg&card_width=456" alt="GitHub Streak" /></a>
 
 |T|h|i|n|g|s||I||🤍|:|
 | - | - | - | - | - | - | - | - | - | - | - |
