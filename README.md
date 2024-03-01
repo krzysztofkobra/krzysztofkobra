@@ -1,6 +1,6 @@
 ### hello
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krzysztofkobra&theme=iceberg&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kan0nek&theme=iceberg&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 |T|h|i|n|g|s||I||🤍|:|
 | - | - | - | - | - | - | - | - | - | - | - |
