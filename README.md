@@ -1,6 +1,6 @@
 ### hello
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kan0nek&theme=iceberg&date_format=j%20M%5B%20Y%5D&card_width=458)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kan0nek&theme=iceberg&date_format=j%20M%5B%20Y%5D&card_width=456)](https://git.io/streak-stats)
 
 |T|h|i|n|g|s||I||🤍|:|
 | - | - | - | - | - | - | - | - | - | - | - |
