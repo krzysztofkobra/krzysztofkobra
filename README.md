@@ -5,19 +5,17 @@
 
 |T|h|i|n|g|s||I||🤍|:|
 | - | - | - | - | - | - | - | - | - | - | - |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | |`F` | | | | | | | |
-| | | |`O` | | | | | | | |
-| | | |`O` | | | | | | | |
+| | | |`F`| | | | | | | |
+| | | |`O`| | | | | | | |
+| | | |`O`| |`U`| | | | | |
 |`M`|`A`|`R`|`T`|`Y`|`N`|`A`| | | | |
-|`E`| | |`B`| | | | | | | |
-|`S`| | |`A`| | | | | | | |
-|`S`| | |`L`| | | | | | | |
-|`I`| | |`L` | | | | | | | |
-
+|`E`| | |`B`| |`N`| | | | | |
+|`S`| | |`A`| |`I`| | | | | |
+|`S`| | |`L`| |`V`| | | | | |
+|`I`| | |`L`| |`E`| | | | | |
+| | | | | |`R`| || | | |
+| | | | | |`S`| || | | |
+| | | | | |`E`| || | | |
 
 <a href="https://twitter.com/kan0nek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a>
 </div>
