@@ -7,15 +7,15 @@
 | - | - | - | - | - | - | - | - | - | - | - |
 |♟️ | | | | |`F`| | | | | | | | 
 |`C`| | | | |`O`| | | | | | | |
-|`H`| |🐐| | |`O`| | |`U`| | | | | |
-|`E`|🤍|`M`|`A`|`R`|`T`|`Y`|`N`|`A`|🤍| | | |
-|`S`| |`E`| | |`B`| |`N`| | | | | |
-|`S`| |`S`| | |`A`| |`I`| | | | | |
-|♟️| |`S`| | |`L`| |`V`| | | | | |
-| | |`I`| | |`L`| |`E`| | | | | |
-| | |🐐 | | | | |`R`| || | | |
-| | | | | | | |`S`| || | | |
-| |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`| | |
+|`H`| |🐐| | |`O`| |`U` || |🎮 | | | |
+|`E`|🤍|`M`|`A`|`R`|`T`|`Y`|`N`|`A`|🤍| `G`|
+|`S`| |`E`| | |`B`| |`N`| | |`A`|
+|`S`| |`S`| | |`A`| |`I`| | |`M`|
+|♟️| |`S`| | |`L`| |`V`| | |`E`|
+| | |`I`| | |`L`| |`E`| | |`S` |
+| | |🐐 | | | | |`R`| | |🎮 | 
+| | | | | | | |`S`| | | |
+| |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`|
 
 <a href="https://twitter.com/kobrakrzysztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a><br>
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=bullet)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/bullet)
