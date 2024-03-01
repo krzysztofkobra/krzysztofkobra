@@ -7,7 +7,7 @@
 | - | - | - | - | - | - | - | - | - | - | - |
 |♟️ | | | | |`F`| | | | | | | | 
 |`C`| | | | |`O`| | | | | | | |
-|`H`| |🐐| | | |`O`| |`U`| | | | | |
+|`H`| |🐐| | |`O`| | |`U`| | | | | |
 |`E`|🤍|`M`|`A`|`R`|`T`|`Y`|`N`|`A`|🤍| | | |
 |`S`| |`E`| | |`B`| |`N`| | | | | |
 |`S`| |`S`| | |`A`| |`I`| | | | | |
@@ -15,7 +15,7 @@
 | | |`I`| | |`L`| |`E`| | | | | |
 | | |🐐 | | | | |`R`| || | | |
 | | | | | | | |`S`| || | | |
-| |`L`|`O`|`O`|`K` | |`B`|`E`|`L`|`O`|`W`| | |
+| |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`| | |
 
 <a href="https://twitter.com/kan0nek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kan0nek" height="30" width="40" /></a>
 </div>
