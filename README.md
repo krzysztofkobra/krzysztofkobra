@@ -17,7 +17,7 @@
 | | | | | | | |`S`| | | |
 | |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&layout=compact)
 
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=bullet)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/bullet)
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=CHRISTOPHERTOKOKS123&format=blitz)](https://lichess.org/@/CHRISTOPHERTOKOKS123/perf/blitz)
