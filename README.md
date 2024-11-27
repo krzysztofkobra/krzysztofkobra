@@ -1,7 +1,7 @@
 <h2 align="center"> Hi </h2>
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=krzysztofkobra&theme=iceberg&locale=pl&date_format=j%2Fn%5B%2FY%5D&card_width=456)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krzysztofkobra&theme=iceberg&locale=pl&date_format=j%2Fn%5B%2FY%5D&card_width=456" alt="GitHub Streak" /></a>
 
 |T|h|i|n|g|s||I||🤍|:|
 | - | - | - | - | - | - | - | - | - | - | - |
