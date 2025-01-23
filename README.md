@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋</h2>
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&theme=dark&hide_border=true" alt="Top Languages" />
