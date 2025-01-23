@@ -1,19 +1,7 @@
 <h2 align="center"> Hi </h2>
 <div align="center">
 
-|T|h|i|n|g|s||I||🤍|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-|♟️ | | | | |`F`| | | | | | 
-|`C`| | | | |`O`| | | | | | | |
-|`H`| |🐐| | |`O`| |`U` || |🎮 | | | |
-|`E`|🤍|`M`|`A`|`R`|`T`|`Y`|`N`|`A`|🤍| `G`|
-|`S`| |`E`| | |`B`| |`N`| | |`A`|
-|`S`| |`S`| | |`A`| |`I`| | |`M`|
-|♟️| |`S`| | |`L`| |`V`| | |`E`|
-| | |`I`| | |`L`| |`E`| | |`S` |
-| | |🐐 | | | | |`R`| | |🎮 | 
-| | | | | | | |`S`| | | |
-| |`L`|`O`|`O`|`K` |⬇️ |`B`|`E`|`L`|`O`|`W`|
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&layout=compact)
 
