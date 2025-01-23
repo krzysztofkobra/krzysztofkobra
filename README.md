@@ -1,4 +1,4 @@
-<h2 align="left"> Hi </h2>
+<h2 align="left">Hi 👋</h2>
 <div align="left">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&layout=compact&theme=dark" alt="Top Languages" />
 </div>
