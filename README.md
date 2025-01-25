@@ -2,7 +2,7 @@
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&theme=dark&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&theme=dark&hide_border=false" alt="Top Languages" />
     </td>
     <td style="border: none; padding-left: 20px; vertical-align: top;">
       <h3>About Me</h3>
