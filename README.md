@@ -6,8 +6,9 @@
     </td>
     <td style="border: none; padding-left: 20px; vertical-align: top;">
       <h3>About Me</h3>
-      <p>I'm a passionate developer who loves building cool stuff with code. <strong>Check out my projects below!</strong></p>
+      <p>I'm a passionate developer who loves building cool stuff with code.</p>
       <p>I'm also very interested in artificial intelligence, and robotics.  🤖</p>
+      <p><strong>Check out my projects below!</strong></p>
     </td>
   </tr>
 </table>
