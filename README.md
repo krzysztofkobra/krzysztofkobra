@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋</h2>
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0;">
+    <td style="border: none; padding: 0; width: 60%;">
       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofkobra&theme=react&hide_border=false" style="width: 80%" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofkobra&theme=react&show_icons=true&hide_border=false&layout=compact" style="width: 80%" />
     </td>
