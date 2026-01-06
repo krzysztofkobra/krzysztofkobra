@@ -6,9 +6,9 @@ I build web apps, micro SaaS, and whatever else comes to mind.
 
 ## What I'm working on
 
-My main project is **[AutoAnaliza](https://www.autoanaliza.pl)** - a platform for analyzing the Polish automotive market. It helps car dealers and buyers make smarter decisions with AI-powered valuations and market insights.
+My main project is **[AutoAnaliza](https://autoanaliza.pl)** - a platform for analyzing the Polish automotive market. It helps car dealers and buyers make smarter decisions with AI-powered valuations and market insights.
 
-I also run **[noreno](https://www.noreno.pl)** where I build websites, mobile apps, and custom automations.
+I also run **[noreno](https://noreno.pl)** where I build websites, mobile apps, and custom automations.
 
 My tech stack includes React, Node.js, TypeScript, and Python. In my first job, I dabbled with C++ microcontrollers, but low-level programming wasn't for me. I've worked with automation tools like n8n and make.com - they're pretty cool
 
