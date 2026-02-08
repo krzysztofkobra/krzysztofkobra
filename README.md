@@ -20,4 +20,4 @@ I've got some projects cooking, but most repos are private. The ones that make i
 - Gym regular 💪
 - Built a BB8 robot because why not (Star Wars fan since childhood)
 - Movies & series enthusiast
-- Peaked at 1931 on lichess rapid ([CHRISTOPHERTOKOKS123](https://lichess.org/@/CHRISTOPHERTOKOKS123))
+- Peaked at 1931 on lichess rapid ([My Profile](https://lichess.org/@/CHRISTOPHERTOKOKS123))
