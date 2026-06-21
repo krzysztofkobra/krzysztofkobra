@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm [Szymon](https://www.linkedin.com/in/swydraa/), a 19-year-old developer based in Poland.
+I'm [Szymon](https://www.linkedin.com/in/swydraa/), a 20-year-old developer based in Poland.
 I build web apps, micro SaaS, and whatever else comes to mind.
 
 ## What I'm working on
