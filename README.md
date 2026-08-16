@@ -3,9 +3,9 @@ I'm [Szymon](https://www.linkedin.com/in/swydraa/), a 20-year-old developer base
 I build web apps, micro SaaS, and whatever else comes to mind.
 
 ## What I'm working on
-I'm running **[noreno](https://noreno.pl)**, where I build websites, mobile apps, and custom automations for clients.
+I'm running **[noreno](https://noreno.pl)**, where me and my team build websites, mobile apps, and custom automations.
 
-You can check out my work **[here](https://noreno.pl/realizacje)**.
+You can check out our work **[here](https://noreno.pl/realizacje)**.
 
 My tech stack includes React, Node.js, TypeScript, and Python. In my first job, I dabbled with C++ microcontrollers, but low-level programming wasn't for me. I've worked with automation tools like n8n and make.com.
 
